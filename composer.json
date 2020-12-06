@@ -1,0 +1,7 @@
+{
+    "name": "it-for-free/php-console",
+    "description": "Console Component",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
